@@ -11,7 +11,11 @@ weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
 
 def user_choice(prompt, choices=('y', 'n')):
     """Return a valid input from the user given an array of possible answers.
-    """
+ 
+    Args: 
+        (str) prompt – prompt with input request
+        (tup) choice – tuple with elements of answers """
+
     while True:
         choice = input(prompt).lower().strip()
         # terminate the program if the input is end
