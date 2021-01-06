@@ -6,7 +6,9 @@ UDACITY NANO DEGREE PROGRAM - Bikeshare analysis
 
 ### Description
 In this project, we have used Python to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. we have  imported the data and answer interesting questions about it by computing descriptive statistics, and write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+
 This is Python program developed to allow the user to explore an US bikeshare system database and retrieve statistics information from the database
+
 ### Files used
 The required files for running this program are:
 - chicago.csv
