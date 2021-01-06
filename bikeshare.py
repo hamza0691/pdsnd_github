@@ -10,9 +10,9 @@ weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
             'saturday')
 
 def user_choice(prompt, choices=('y', 'n')):
-    """Return a valid input from the user given an array of possible answers.
+    """Return a valid input from the user given an array of possible answers."""
  
-    Args: 
+    """Args: 
         (str) prompt – prompt with input request
         (tup) choice – tuple with elements of answers """
 
